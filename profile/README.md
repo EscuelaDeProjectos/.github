@@ -24,3 +24,6 @@ Please dont be shy about joining, this is to have fun.
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
+monkeyDLuzi and Subhan make your repositories within the Organization, for example monkeyDluzi make your js study repos inside the organization, and change the name of them, they should have such name.
